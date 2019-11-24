@@ -84,13 +84,13 @@
 	<offers>
             <offer id="10000" type="vendor.model" available="true" bid="3" cbid="3">
                 <url></url>
-                <price>10000</price>
+                <price>3900</price>
                 <currencyId>UZS</currencyId>
                 <store>true</store>
                 <pickup>true</pickup>
                 <delivery>true</delivery>
                 <vendor></vendor>
-                <categoryId>10</categoryId>
+                <categoryId>21</categoryId>
                 <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256059.jpg</picture>
                 <typePrefix></typePrefix>
                 <model>Nutrilak</model>
